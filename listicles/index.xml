@@ -6,16 +6,18 @@
     <description>Recent content in Lists on Broke Bibliophiles Bangalore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 20:47:08 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 20:47:08 +0530</lastBuildDate>
     
 	<atom:link href="https://brokebibliophiles.github.io/listicles/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-      <title>Monthly Discussions</title>
-      <link>https://brokebibliophiles.github.io/listicles/monthly-discussions/</link>
+    
+    
+    <item>
+      <title>Monthly Read Discussions</title>
+      <link>https://brokebibliophiles.github.io/listicles/all-about-monthly-reads/</link>
       <pubDate>Sun, 27 Jun 2021 20:47:08 +0530</pubDate>
       
-      <guid>https://brokebibliophiles.github.io/listicles/all-about-women-authors/</guid>
-      <description>Women Author Recommendations from BBB Readers - Indian and International</description>
+      <guid>https://brokebibliophiles.github.io/listicles/all-about-monthly-reads/</guid>
+      <description>These lists are around books that have been discussed in our monthly meetups.</description>
     </item>
     
     <item>
